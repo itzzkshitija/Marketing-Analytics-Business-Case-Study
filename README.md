@@ -7,6 +7,7 @@ ShopEasy, an online retail business, faces a significant drop in customer engage
 You are a Data Analyst contacted via email by the Marketing Manager and the Customer Experience Manager. 
 ![image](https://github.com/user-attachments/assets/87fa818e-9b2b-4a9d-9833-213f1cc3efda)
 ![image](https://github.com/user-attachments/assets/a4523b82-da7d-4649-a9a5-683d72eb49fa)
+
 ### Here are the key issues identified by the Marketing Manager and Customer Experience Manager:
 <ul>
   <li><b>Reduced Customer Engagement:</b>The number of customer interactions and engagement with the site and marketing content has declined.</li>
