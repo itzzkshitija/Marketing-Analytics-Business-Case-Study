@@ -24,3 +24,33 @@ You are a Data Analyst contacted via email by the Marketing Manager and the Cust
 
   <li><b>John Smith</b>The Customer Experience Manager at ShopEasy. John is responsible for collecting and monitoring customer feedback from sources like customer reviews and social media comments to understand customer sentiment. John focuses on enhancing customer engagement and satisfaction, particularly in response to any noted declines</li>
 </ul>
+
+## Data Sources and Tables
+<ul>
+  <li><b>Customer Journey Table: </b>Track customer movements through the website to analyze the conversion funnel.</li>
+  <li><b>Engagement Data Table: </b>Measure engagement with different types of content.</li>
+  <li><b>Customer Reviews Table: </b>Analyze Customer feedback to identify common themes and sentiments</li>
+  <li><b>Customers Table: </b>Provides additional information about customers.</li>
+  <li><b>Geography Table: </b>Provides additional geographic information about customers</li>
+  <li><b>Products Table: </b>Provides additional information about products</li>
+</ul>
+
+## Goal
+<ul>
+  <li><b>Increase Conversion Rates: </b></li>
+  <ul>
+    <li><b>Goal:</b>Identify the factors impacting the conversion rate and provide recommendations to improve it.</li>
+    <li><b>Insight:</b>Highlight key stages where visitors drop off and suggest improvements to optimize the conversion funnel.</li>
+  </ul>
+  <li><b>Enhance Customer Engagement:</b></li>
+  <ul>
+    <li><b>Goal:</b>Determine which types of content drive the highest engagement.</li>
+    <li><b>Insight:</b>Analyze interaction levels with different types of marketing content to inform better content strategies.</li>
+  </ul>
+  <li><b>Improve Customer Feedback Scores: </b></li>
+  <ul>
+    <li><b>Goal:</b>Understand common themes in customer reviews and provide actionable insights.</li>
+    <li><b>Insight:</b>Identify recurring positive and negative feedback to guide product and service improvements.</li>
+  </ul>
+</ul>
+
