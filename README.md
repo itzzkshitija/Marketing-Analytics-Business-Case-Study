@@ -18,5 +18,5 @@ The marketing Manager at ShopEasy writes an email to a Data Analyst (in this cas
 <b>Key Points to note in an Email:</b>
 
 1. The manager at ShopEasy mentioned that they've been encountering some challenges with their marketing campaigns.
-
-2. The manager is requesting a Data Analyst to 
+2. The manager is seeking help from a Data Analyst to apply their expertise in identifying areas for improvement.
+3. 
