@@ -19,4 +19,4 @@ The marketing Manager at ShopEasy writes an email to a Data Analyst (in this cas
 
 1. The manager at ShopEasy mentioned that they've been encountering some challenges with their marketing campaigns.
 2. The manager is seeking help from a Data Analyst to apply their expertise in identifying areas for improvement.
-3. 
+3. The manager mentioned about how they are facing 
