@@ -1,5 +1,16 @@
 # Retail Analytics Case Study
 
+## Table of Contents
+[Introduction to Business Problem](#introduction-to-business-problem)
+<br>
+[Scenario](#scenario)
+<br>
+[Characters and teams](#characters-and-teams)
+<br>
+[Data Sources and Tables](#data-sources-and-tables)
+<br>
+[Goal](#goal)
+
 ## Introduction to Business Problem 
 ShopEasy, an online retail business, faces a significant drop in customer engagement and conversion rates despite launching several new online marketing campaigns. A retail business is required to perform a detailed analysis to identify areas for improvement in ShopEasy's Marketing strategies.
 
